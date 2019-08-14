@@ -1,0 +1,41 @@
+.toodslist__tood--container {
+  background: lightgreen;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  line-height: 3rem;
+  padding: 0 0 0 1rem;
+  margin: 1rem 0;
+  width: 40rem;
+
+  border-radius: .3rem;
+}
+
+.toodslist__toodles--container {
+  background: lightgrey;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  line-height: 3rem;
+  padding: 0 0 0 1rem;
+  margin: 1rem 0;
+  width: 40rem;
+
+  border-radius: .3rem;
+}
+
+.toodslist__tood--checkbox {
+  background: #436E42;
+
+  height: 2rem;
+  width: 2rem;
+
+  border-radius: .2rem;
+}
+
+.toodslist__tood--text {
+  margin: 0 0 0 1rem;
+  justify-self: flex-start;
+}
